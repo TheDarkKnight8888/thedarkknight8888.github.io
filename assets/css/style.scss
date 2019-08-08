@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
+	background-image:url('../../img/constellation.png');
+	background-size:cover;
+	color:white;
+	font:15px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+h1
+{
+color:white;
+}
