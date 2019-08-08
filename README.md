@@ -1,4 +1,4 @@
-  **_As far as his education is conserned, he graduated from BSUIR in 2016 with The Diploma of Honor with the speciality in Micro- and Nanoelectronic Technologies and Systems at The Microelectronic Department. He likes mastering something new and he hopes he does it in a perfect way._**
+  **_As far as Anton's education is conserned, he graduated from BSUIR in 2016 with The Diploma of Honor with the speciality in Micro- and Nanoelectronic Technologies and Systems at The Microelectronic Department. He likes mastering something new and he hopes he does it in a perfect way._**
   
   **_As far as his occupation is concerned, he has worked at NTLab company since 2016 till now. Speaking precisely he has worked as a designer at Analog-to-Digital and Digital-to-Analog Converters Department. In team of motivated and driven people he designs ADC and DAC for various Application Specific Integrated Circuits (ASIC) using computer aided design (CAD) tools_**.
   
