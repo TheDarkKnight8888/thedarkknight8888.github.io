@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TheDarkKnight8888/thedarkknight8888.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheDarkKnight8888/thedarkknight8888.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  **_As far as his education is conserned, he graduated from BSUIR in 2016 with The Diploma of Honor with the speciality in Micro- and Nanoelectronic Technologies and Systems at The Microelectronic Department. He likes mastering something new and he hopes he does it in a perfect way._**
+  
+  **_As far as his occupation is concerned, he has worked at NTLab company since 2016 till now. Speaking precisely he has worked as a designer at Analog-to-Digital and Digital-to-Analog Converters Department. In team of motivated and driven people he designs ADC and DAC for various Application Specific Integrated Circuits (ASIC) using computer aided design (CAD) tools_**.
+  
+  **_As far as his interests are concerned, he is keen on playing various sports. He likes films with Adriano Chelentano. He is fond of listening to music (from classic to rock) And as a rule he tries to attend different courses (English languige courses, programming languige courses) in order to master new skills and to get acquainted with fascinating new people_**. 
+  
+  **_Finally he is a highly ambition man_**.
+  
+  **_That is it :)_**
+  
+  **_Thank you for reading this page :)_**
